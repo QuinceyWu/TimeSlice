@@ -22,7 +22,7 @@ def calculate_progress(current_date):
 
 def print_progress_bar(progress_percentage, bar_length=20):
     """打印进度条,长度设为20字符"""
-    filled_length = int(bar_length * progress_percentage // 100)
+    filled_length = int(bar_length * progress_percentage // 50)
     bar = '▓' * filled_length + '░' * (bar_length - filled_length)
     return bar
 
