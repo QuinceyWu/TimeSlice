@@ -59,4 +59,3 @@ Feel free to contribute ideas and improvements via Issues or Pull Requests! Also
 
 ## 📚 License
 This project is under the MIT license. Feel free to use, modify, and share it. For more details, please check the LICENSE file.
-```
